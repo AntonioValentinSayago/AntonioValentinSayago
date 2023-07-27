@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniovalentinsayago&label=Profile%20views&color=0e75b6&style=flat" alt="antoniovalentinsayago" /> </p>
 
-- 🔭 I’m currently working on Softtek México **Application Management Services**
+- 🔭 I’m currently working on Indra Minsait México **Application Management Services**
 
-- 🌱 I’m currently learning ReactJs **Next Js, React Native**
+- 🌱 I’m currently learning JavaScript, React Js **Next Js, React Native**
 
 - 🤝 I'm looking for help with Spring Boot and microservices **Application Management Services**
 
