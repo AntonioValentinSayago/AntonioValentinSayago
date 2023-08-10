@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio Valentín</h1>
 <h3 align="center">A passionate backend developer from Mexico, looking for new challenges and adventures in the world of programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniovalentinsayago&label=Profile%0views&color=0e75b6&style=flat" alt="antoniovalentinsayago" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniovalentinsayago&label=Profile%20views&color=0e75b6&style=flat" alt="antoniovalentinsayago" /> </p>
 
 - 🔭 I’m currently working on Indra Minsait México **Consultor JR, FrontEnd**
 
