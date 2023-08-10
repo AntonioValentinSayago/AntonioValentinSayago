@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Antonio Valentín</h1>
 <h3 align="center">A passionate backend developer from Mexico, looking for new challenges and adventures in the world of programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniovalentinsayago&label=Profile%20views&color=0e75b6&style=flat" alt="antoniovalentinsayago" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniovalentinsayago&label=Profile%0views&color=0e75b6&style=flat" alt="antoniovalentinsayago" /> </p>
 
-- 🔭 I’m currently working on Indra Minsait México **Application Management Services**
+- 🔭 I’m currently working on Indra Minsait México **Consultor JR, FrontEnd**
 
 - 🌱 I’m currently learning JavaScript, React Js **Next Js, React Native**
 
@@ -19,6 +19,3 @@
 <a href="https://lit.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/18489846?v=4" alt="Lit Element" width="40" height="40"/> </a>
 <a href="https://www.webcomponents.org/" target="_blank" rel="noreferrer"> <img src="https://www.webcomponents.org/assets/logo-192x192.png" alt="Web Components" width="40" height="40"/> </a>
 </p>
-
-
-
