@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniovalentinsayago&label=Profile%20views&color=0e75b6&style=flat" alt="antoniovalentinsayago" /> </p>
 
-- 🔭 I’m currently working on Indra Minsait México 
+- 🔭 I’m currently working on Indra Minsait México **Consultor FrontEnd, Scrum Developer Certificate**
 
 - 🌱 I’m currently learning JavaScript, React Js **Vue**
 
