@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniovalentinsayago&label=Profile%20views&color=0e75b6&style=flat" alt="antoniovalentinsayago" /> </p>
 
-- 🔭 I’m currently working on Indra Minsait México **Consultor JR, FrontEnd**
+- 🔭 I’m currently working on Indra Minsait México 
 
-- 🌱 I’m currently learning JavaScript, React Js **Next Js, React Native**
+- 🌱 I’m currently learning JavaScript, React Js **Vue**
 
 - 🤝 I'm looking for help with Spring Boot and microservices **Application Management Services**
 
 - 💬 Ask me about **The world of web development**
 
 - 📫 How to reach me **cesar_anto30@hotmail.com**
+
+- ✔️ Scrum Developer Certificate
 
 <h3 align="left">Languages and Tools:</h3>
 
