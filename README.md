@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on Indra Minsait México / Frontend Developer at BBVA Bancomerr **Consultor FrontEnd, Scrum Developer Certificate**
 
+- 👨‍🏫 Programming instructor with 3 months experience
+
 - 🌱 I’m currently learning JavaScript, React Js **Vue**, Scrum Developer
 
 - 🤝 I'm looking for help with Spring Boot and microservices **Application Management Services**
