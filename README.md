@@ -1,6 +1,7 @@
-<div style="text-align:center">
-    ![Banner Antony Dev](github-header-image-v2.png)
-</div>
+<p align="center">
+  <img src="github-header-image-v2.png" alt="Banner Antony Dev">
+</p>
+
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
