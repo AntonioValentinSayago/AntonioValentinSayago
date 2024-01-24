@@ -3,7 +3,7 @@
 </p>
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Nice to see you.</h1>
 
 <h3 align="center">A passionate FrontEnd developer from Mexico, looking for new challenges and adventures in the world of programming.</h3>
 
