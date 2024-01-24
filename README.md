@@ -1,4 +1,4 @@
-![Banner Antony Dev](github-header-image.png)
+![Banner Antony Dev](github-header-image-v2.png)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <h3 align="center">A passionate FrontEnd developer from Mexico, looking for new challenges and adventures in the world of programming.</h3>
