@@ -1,5 +1,5 @@
 > [!NOTE]
-> Readme en Mantenimiento.
+> En Mantenimiento.
 <p align="center">
   <img src="anotny2.png" alt="Banner Antony Dev" width="90%">
 </p>
