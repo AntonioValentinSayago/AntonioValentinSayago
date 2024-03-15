@@ -37,7 +37,7 @@
 
 - 👨‍🏫 Programming instructor with 6 months of experience, in VUE.js and PHP courses
 
-- 🌱 I’m currently learning JavaScript, React Js **Vue**, Scrum Developer
+- 🌱 XXX XXXXXXXX XXXXXXX XXXX XXXXXXX
 
 - 🤝 I'm looking for help with Spring Boot and microservices **Application Management Services**
 
