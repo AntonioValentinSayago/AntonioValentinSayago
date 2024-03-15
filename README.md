@@ -39,7 +39,7 @@
 
 - 🌱 XXX XXXXXXXX XXXXXXX XXXX XXXXXXX
 
-- 🤝 I'm looking for help with Spring Boot and microservices **Application Management Services**
+- 🤝  **XXX XXXXXXXX XXXXXXX XXXX XXXXXX**
 
 - 💬 Ask me about **The world of web development**
 
