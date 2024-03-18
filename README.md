@@ -41,8 +41,8 @@
 
 - 🤝  **XXX XXXXXXXX XXXXXXX XXXX XXXXXX**
 
-- 💬 Ask me about **The world of web development**
+- 💬 XX XXX XXXXX **XX XXX XXXXXXX XXXXX XXX**
 
-- 📫 How to reach me **cesar_anto30@hotmail.com**
+- 📫 How to reach me **xxxxxxxxxxxx@hotmail.com**
 
 - ✔️ Scrum Developer Certificate
