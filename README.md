@@ -46,3 +46,5 @@
 - 📫 How to reach me **xxxxxxxxxxxx@hotmail.com**
 
 - ✔️ Scrum Developer Certificate
+
+- 💻 xxxxxxxx xxxxxxx xxxxx xx xxxxxxxxxx
