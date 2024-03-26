@@ -49,4 +49,4 @@
 
 - 💻 xxxxxxxx xxxxxxx xxxxx xx xxxxxxxxxx
 
-- 📝 XXXXX XXXXXXXX   XXXXX 
+- 📝 XXXXX XXXXXXXX XXXXX XXXXXXXX
