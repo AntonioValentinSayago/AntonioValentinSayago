@@ -1,7 +1,7 @@
 > [!NOTE]
-> En Mantenimiento. Fecha Aproximada (31 de Diciembre de 2024) 
+> En Mantenimiento. Fecha Aproximada (31 de Enero de 2025) 
 <p align="center">
-  <img src="anotny2.png" alt="Banner Antony Dev" width="90%">
+  <h1 align="left">Hey 👋 What's up?</h1>
 </p>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Greetings from Mexico.</h1>
