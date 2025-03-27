@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Advanced CSS, Web Performance Optimization, and Microfrontend Architecture<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Advanced CSS, Web Performance Optimization, and Microfrontend Architecture<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
