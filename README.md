@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Antonio Valentín, and I'm a Front-End Developer in BBVA México, with over 3 years of experience, currently working at BBVA Mexico, based in Mexico City.</p>
+<p align="left">My name is Antonio Valentín, and I'm a Front-End Developer, with over 3 years of experience, currently working at BBVA Mexico, based in Mexico City.</p>
 
 ###
 
@@ -34,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
 </div>
 
