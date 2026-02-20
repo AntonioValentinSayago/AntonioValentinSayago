@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Antonio Valentín, and I'm a Front-End Developer with over 3 years of experience, currently working at BBVA Mexico, based in Mexico City.</p>
+<p align="left">My name is Antonio Valentín, and I'm a Front-End Developer in BBVA México, with over 3 years of experience, currently working at BBVA Mexico, based in Mexico City.</p>
 
 ###
 
